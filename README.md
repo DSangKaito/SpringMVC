@@ -1,3 +1,3 @@
 # SpringMVC
-This create simple project SpringMVC
-  User IDE: eclipse
+This create simple project SpringMVC 
+#User IDE: eclipse
